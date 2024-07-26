@@ -1,0 +1,8 @@
+agua|molhada|2|sim
+pão|tem lactose|0.20|sim
+Tomate|Fruta|12|sim
+Camisa|Roupa|50|sim
+Copo|Copo|10|sim
+calça|roupa|30|nao
+Microfone|eletrônicos|250|sim
+Suporte|suporte|8|sim
